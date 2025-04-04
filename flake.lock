@@ -110,11 +110,11 @@
     },
     "secshell": {
       "locked": {
-        "lastModified": 1743802042,
-        "narHash": "sha256-gWShjvK1WZ7jMzeSVupNKE/Z0N1r/iI5PqEH03wyMko=",
+        "lastModified": 1743802447,
+        "narHash": "sha256-NRKrNdHG+2P64vGHUUQzwuBELSgoi7HdDkg1CoQVB1E=",
         "owner": "secshellnet",
         "repo": "nixos",
-        "rev": "01ba07c8fea839647624bc7fc47c4e71e8bfbeee",
+        "rev": "8aaecff9d94ef4bfdb6c78617fbcae15fe84127b",
         "type": "github"
       },
       "original": {
